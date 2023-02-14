@@ -1,6 +1,5 @@
 - Hi, I’m @ericposas
 - I’m interested in programming and development in all its forms
-- I’m currently learning API design and focusing more on backend development and technologies
 - I’m looking to collaborate on mobile applications, api's, or backend projects
 - How to reach me: ericposas@outlook.com
 
